@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "IYKYK (If You Know You Know)",
+  "base_artist": "ILLIT",
+  "createdAt": "2026-01-11T07:25:15.158048Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "IYKYK (If You Know You Know)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/01_IYKYK_(If_You_Know_You_Know)_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "IYKYK (If You Know You Know)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/02_IYKYK_(If_You_Know_You_Know)_ILLIT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IYKYK (If You Know You Know)",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/pl_01_IYKYK_(If_You_Know_You_Know)_ILLIT.txt"
+    }
+  ]
+}
