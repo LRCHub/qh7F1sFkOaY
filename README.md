@@ -1,0 +1,50 @@
+# ILLIT – IYKYK (If You Know You Know)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:14.72] 하루 종일 내린 rain, 괜히 울적했던 day
+[00:18.55] 어느샌가 내 곁에 미소 짓는 너
+[00:22.23] 무심한 듯 나에게 건넨 최애 ice tea
+[00:25.92] 먹구름이 걷힌 face, like it's sunshine, this time
+[00:47.42] 
+[00:30.14] 넌 뭔가 다른 것 같아
+[00:33.60] 내 눈에만 보이는 걸
+[00:37.20] 너무 좋아, 어쩜 하나하나
+[00:40.91] 널 알면 알수록 말이야
+[00:46.91] 
+[00:44.52] This feels like sunshine, 달콤한 그 smile
+[00:48.13] 숨겨진 너를 매일 새로 발견해 난
+[00:52.09] This feels like sunshine, 완벽해, so fine
+[00:55.68] 모르면 몰라도 알 사람은 다 알아
+[01:04.68] 
+[00:59.47] This feels like I-Y-K-Y-K, I-Y-K-Y-K, I-Y-K-Y-K
+[01:06.05] If you know, you know (ooh)
+[01:07.51] I-Y-K-Y-K, I-Y-K-Y-K, I-Y-K-Y-K
+[01:13.34] If you know, you know (ooh)
+[01:26.84] 
+[01:14.64] 내겐 다 보이지 when you are next to me
+[01:16.56] 무표정 그 뒤로 숨겨진 sweetness
+[01:18.59] 무심히 툭 유심히 관찰해 온종일 zoom
+[01:21.38] 엉뚱한 행동에 심장이 쿵
+[01:27.88] 
+[01:23.10] 은근슬쩍 다정한 점은 덤
+[01:24.99] 감춰둔 눈웃음에 나는 bloom
+[01:26.86] 알면 알수록 끌려 너란 boy
+[01:28.74] Oh-oh-oh
+[01:32.74] 
+[01:30.29] 넌 숨겨진 café 같아
+[01:33.79] 우연히 산책길에 만난
+[01:37.03] 난 말이야 점점 빠져들어
+[01:41.10] 널 알아가면 갈수록
+[01:46.10] 
+[01:44.46] This feels like sunshine, 달콤한 그 smile
+[01:48.19] 숨겨진 너를 매일 새로 발견해 난
+[01:51.97] This feels like sunshine, 완벽해, so fine
+[01:55.79] 모르면 몰라도 알 사람은 다 알아
+[02:04.79] 
+[01:59.34] This feels like I-Y-K-Y-K, I-Y-K-Y-K, I-Y-K-Y-K
+[02:06.00] If you know, you know (ooh)
+[02:07.51] I-Y-K-Y-K, I-Y-K-Y-K, I-Y-K-Y-K
+[02:13.50] If you know, you know (ooh)
+```
